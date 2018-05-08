@@ -8,4 +8,4 @@ node_js:
 
 script:
   - npm i
-  - npm run bower -- install
+  - node_modules/.bin/bower install
