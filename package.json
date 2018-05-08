@@ -7,7 +7,7 @@
     "bower": "^1.8.2"
   },
   "devDependencies": {
-    "bower-npm-resolver": "^0.4.0"
+    "bower-npm-resolver": "0.9.1"
   },
   "scripts": {
     "bower": "bower",
