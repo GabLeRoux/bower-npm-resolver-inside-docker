@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/GabLeRoux/bower-npm-resolver-inside-docker.svg?branch=master)](https://travis-ci.org/GabLeRoux/bower-npm-resolver-inside-docker)
 
+Refer to the following issue where it was fixed upstream:  
+https://github.com/mjeanroy/bower-npm-resolver/issues/10
+
 I created this because I was getting the following error when running inside docker
 
 ## TypeError: Path must be a string. Received undefined
