@@ -1,0 +1,17 @@
+{
+  "name": "bower-npm-resolver-inside-docker",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gabriel Le Breton <lebreton.gabriel@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/GabLeRoux/bower-npm-resolver-inside-docker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

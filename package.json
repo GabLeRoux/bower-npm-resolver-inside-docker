@@ -3,9 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabLeRoux/bower-npm-resolver-inside-docker.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabLeRoux/bower-npm-resolver-inside-docker/issues"
+  },
+  "homepage": "https://github.com/GabLeRoux/bower-npm-resolver-inside-docker#readme"
 }
