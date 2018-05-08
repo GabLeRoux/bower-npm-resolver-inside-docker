@@ -10,3 +10,14 @@ script:
   - npm i
   - npm i -g bower-npm-resolver@^0.4.0
   - npm run bower -- install
+
+stages:
+  - docker
+
+jobs:
+  include:
+    - stage: docker
+      sudo: required
+      services:
+        - docker
+      script: docker build . -t bower-npm-resolver-inside-docker
