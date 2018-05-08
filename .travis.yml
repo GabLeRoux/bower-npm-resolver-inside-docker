@@ -5,4 +5,4 @@ node_js:
 
 script:
   - npm i
-  - bower i
+  - npm run bower -- install --allow-root
