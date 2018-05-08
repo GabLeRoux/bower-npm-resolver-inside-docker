@@ -8,4 +8,4 @@ node_js:
 
 script:
   - npm i
-  - npm run bower -- install --allow-root
+  - npm run bower -- install
