@@ -8,7 +8,6 @@ node_js:
 
 script:
   - npm i
-  - npm i -g bower-npm-resolver@^0.4.0
   - npm run bower -- install
 
 stages:
