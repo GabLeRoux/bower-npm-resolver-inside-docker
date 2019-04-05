@@ -1,6 +1,6 @@
 # bower-npm-resolver-inside-docker
 
-[![Build Status](https://travis-ci.org/GabLeRoux/bower-npm-resolver-inside-docker.svg?branch=master)](https://travis-ci.org/GabLeRoux/bower-npm-resolver-inside-docker)
+[![Build Status](https://travis-ci.org/GabLeRoux/bower-npm-resolver-inside-docker.svg?branch=master)](https://travis-ci.org/GabLeRoux/bower-npm-resolver-inside-docker) [![Greenkeeper badge](https://badges.greenkeeper.io/GabLeRoux/bower-npm-resolver-inside-docker.svg)](https://greenkeeper.io/)
 
 Refer to the following issue where it was fixed upstream:  
 https://github.com/mjeanroy/bower-npm-resolver/issues/10
